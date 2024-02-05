@@ -1,0 +1,4 @@
+torch>=2.0
+natten>=0.14
+openslide-python
+opencv-python

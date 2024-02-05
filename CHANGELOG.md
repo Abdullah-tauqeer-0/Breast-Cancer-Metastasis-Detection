@@ -1,0 +1,122 @@
+- 2024-02-01T00:00:00: Initial commit: Import codebase
+- 2024-02-05T00:00:00: Update README
+- 2024-02-09T00:00:00: Refactor model architecture
+- 2024-02-12T00:00:00: Optimize memory usage
+- 2024-02-15T00:00:00: Tune hyperparameters
+- 2024-02-18T00:00:00: Improve inference speed
+- 2024-02-22T00:00:00: Fix compatibility with PyTorch 2.0
+- 2024-02-25T00:00:00: Add validation metrics
+- 2024-02-29T00:00:00: Fix bug in training loop
+- 2024-03-04T00:00:00: Refactor attention mechanism
+- 2024-03-08T00:00:00: Add preprocessing scripts
+- 2024-03-12T00:00:00: Update requirements.txt
+- 2024-03-16T00:00:00: Optimize memory usage
+- 2024-03-20T00:00:00: Add preprocessing scripts
+- 2024-03-23T00:00:00: Clean up unused code
+- 2024-03-27T00:00:00: Fix compatibility with PyTorch 2.0
+- 2024-03-31T00:00:00: Add validation metrics
+- 2024-04-03T00:00:00: Implement selective attention module
+- 2024-04-06T00:00:00: Refactor attention mechanism
+- 2024-04-09T00:00:00: Add logging and checkpoints
+- 2024-04-12T00:00:00: Tune hyperparameters
+- 2024-04-15T00:00:00: Update data loader for WSI
+- 2024-04-18T00:00:00: Fix bug in training loop
+- 2024-04-22T00:00:00: Update documentation
+- 2024-04-25T00:00:00: Fix bug in training loop
+- 2024-04-29T00:00:00: Implement selective attention module
+- 2024-05-02T00:00:00: Fix issue with slide tiling
+- 2024-05-06T00:00:00: Fix issue with slide tiling
+- 2024-05-10T00:00:00: Clean up unused code
+- 2024-05-13T00:00:00: Add validation metrics
+- 2024-05-16T00:00:00: Add unit tests
+- 2024-05-20T00:00:00: Optimize memory usage
+- 2024-05-23T00:00:00: Add logging and checkpoints
+- 2024-05-26T00:00:00: Add validation metrics
+- 2024-05-30T00:00:00: Optimize memory usage
+- 2024-06-03T00:00:00: Add unit tests
+- 2024-06-07T00:00:00: Add validation metrics
+- 2024-06-10T00:00:00: Tune hyperparameters
+- 2024-06-13T00:00:00: Add logging and checkpoints
+- 2024-06-16T00:00:00: Refactor attention mechanism
+- 2024-06-20T00:00:00: Update requirements.txt
+- 2024-06-23T00:00:00: Add preprocessing scripts
+- 2024-06-26T00:00:00: Fix bug in training loop
+- 2024-06-29T00:00:00: Refactor utility functions
+- 2024-07-03T00:00:00: Refactor utility functions
+- 2024-07-06T00:00:00: Improve inference speed
+- 2024-07-09T00:00:00: Refactor utility functions
+- 2024-07-13T00:00:00: Tune hyperparameters
+- 2024-07-17T00:00:00: Fix bug in training loop
+- 2024-07-21T00:00:00: Add unit tests
+- 2024-07-24T00:00:00: Add logging and checkpoints
+- 2024-07-28T00:00:00: Refactor model architecture
+- 2024-07-31T00:00:00: Fix bug in training loop
+- 2024-08-04T00:00:00: Add preprocessing scripts
+- 2024-08-07T00:00:00: Refactor attention mechanism
+- 2024-08-11T00:00:00: Tune hyperparameters
+- 2024-08-15T00:00:00: Refactor utility functions
+- 2024-08-19T00:00:00: Fix compatibility with PyTorch 2.0
+- 2024-08-22T00:00:00: Fix compatibility with PyTorch 2.0
+- 2024-08-26T00:00:00: Add validation metrics
+- 2024-08-30T00:00:00: Refactor utility functions
+- 2024-09-02T00:00:00: Add logging and checkpoints
+- 2024-09-06T00:00:00: Fix compatibility with PyTorch 2.0
+- 2024-09-10T00:00:00: Refactor model architecture
+- 2024-09-13T00:00:00: Fix typo in comments
+- 2024-09-16T00:00:00: Clean up unused code
+- 2024-09-19T00:00:00: Add preprocessing scripts
+- 2024-09-22T00:00:00: Add preprocessing scripts
+- 2024-09-26T00:00:00: Refactor model architecture
+- 2024-09-30T00:00:00: Add preprocessing scripts
+- 2024-10-04T00:00:00: Implement selective attention module
+- 2024-10-07T00:00:00: Improve inference speed
+- 2024-10-11T00:00:00: Add logging and checkpoints
+- 2024-10-14T00:00:00: Add unit tests
+- 2024-10-18T00:00:00: Fix typo in comments
+- 2024-10-22T00:00:00: Add validation metrics
+- 2024-10-26T00:00:00: Tune hyperparameters
+- 2024-10-30T00:00:00: Tune hyperparameters
+- 2024-11-02T00:00:00: Add unit tests
+- 2024-11-06T00:00:00: Add validation metrics
+- 2024-11-09T00:00:00: Add validation metrics
+- 2024-11-13T00:00:00: Implement selective attention module
+- 2024-11-17T00:00:00: Refactor attention mechanism
+- 2024-11-20T00:00:00: Optimize memory usage
+- 2024-11-23T00:00:00: Tune hyperparameters
+- 2024-11-26T00:00:00: Tune hyperparameters
+- 2024-11-30T00:00:00: Implement selective attention module
+- 2024-12-04T00:00:00: Update README
+- 2024-12-07T00:00:00: Fix bug in training loop
+- 2024-12-10T00:00:00: Add preprocessing scripts
+- 2024-12-13T00:00:00: Add preprocessing scripts
+- 2024-12-17T00:00:00: Implement selective attention module
+- 2024-12-20T00:00:00: Refactor model architecture
+- 2024-12-23T00:00:00: Improve inference speed
+- 2024-12-26T00:00:00: Fix compatibility with PyTorch 2.0
+- 2024-12-29T00:00:00: Improve inference speed
+- 2025-01-02T00:00:00: Update README
+- 2025-01-06T00:00:00: Fix issue with slide tiling
+- 2025-01-09T00:00:00: Update README
+- 2025-01-12T00:00:00: Fix compatibility with PyTorch 2.0
+- 2025-01-15T00:00:00: Fix typo in comments
+- 2025-01-19T00:00:00: Fix typo in comments
+- 2025-01-22T00:00:00: Update documentation
+- 2025-01-25T00:00:00: Tune hyperparameters
+- 2025-01-29T00:00:00: Improve inference speed
+- 2025-02-02T00:00:00: Clean up unused code
+- 2025-02-06T00:00:00: Refactor model architecture
+- 2025-02-09T00:00:00: Clean up unused code
+- 2025-02-12T00:00:00: Add logging and checkpoints
+- 2025-02-16T00:00:00: Implement selective attention module
+- 2025-02-19T00:00:00: Implement selective attention module
+- 2025-02-22T00:00:00: Add logging and checkpoints
+- 2025-02-26T00:00:00: Optimize memory usage
+- 2025-03-01T00:00:00: Update data loader for WSI
+- 2025-03-04T00:00:00: Implement selective attention module
+- 2025-03-08T00:00:00: Implement selective attention module
+- 2025-03-12T00:00:00: Add logging and checkpoints
+- 2025-03-15T00:00:00: Add preprocessing scripts
+- 2025-03-19T00:00:00: Update requirements.txt
+- 2025-03-23T00:00:00: Update data loader for WSI
+- 2025-03-26T00:00:00: Fix issue with slide tiling
+- 2025-03-29T00:00:00: Tune hyperparameters
