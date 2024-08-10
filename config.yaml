@@ -1,0 +1,6 @@
+model:
+  name: SNA-MIL
+  backbone: resnet50
+training:
+  epochs: 100
+  lr: 1e-4
